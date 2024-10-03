@@ -5,4 +5,4 @@ def extract_archive(archive_path, dest_dir):
         archive.extractall(dest_dir)
         
 if __name__=='__main__':
-    extract_archive(archive_path='C:/Users/1000490/Desktop/Python/Bonus_Examples/extractor/compressed.zip', dest_dir='C:/Users/1000490/Desktop/Python/Bonus_Examples/extractor')
+    extract_archive(archive_path='', dest_dir='') # add your filepaths here
